@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yeshi Pursley
 
-🎓 **MSc in Computational Colour and Spectral Imaging (Erasmus Mundus, NTNU)**  
+🎓 **MSc in Computational Colour and Spectral Imaging (Erasmus Mundus, NTNU, UJM, UEF)**  
 💻 **BSc in Computer Engineering – Cybersecurity & Programming (NTNU)**  
 📍 Based in Stavanger, Norway  
 🧠 Focused on **Computer Vision**, **Deep Learning**, and **Imaging**
