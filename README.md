@@ -4,6 +4,7 @@
 💻 **BSc in Computer Engineering – Cybersecurity & Programming (NTNU)**  
 📍 Based in Stavanger, Norway  
 🧠 Focused on **Computer Vision**, **Deep Learning**, and **Imaging**
+⚡ Fun fact, I love coding
 
 ---
 
