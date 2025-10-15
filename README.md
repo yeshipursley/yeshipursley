@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Yeshi Pursley
 
-<!--
-**yeshipursley/yeshipursley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc in Computational Colour and Spectral Imaging (Erasmus Mundus, NTNU)**  
+💻 **BSc in Computer Engineering – Cybersecurity & Programming (NTNU)**  
+📍 Based in Stavanger, Norway  
+🧠 Focused on **Computer Vision**, **Deep Learning**, and **Imaging**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Recent Work
+- 🎸 *Analyzing and Capturing Classical Guitar Performance using Computer Vision*  
+  Developed a multi-camera analysis system for hand motion and fretboard tracking.
+
+- 🛰️ *Spectral & Remote Sensing Projects*  
+  Worked with Sentinel-2 data for change detection, hyperspectral calibration, and super-resolution.
+
+---
+
+### 🌍 Connect
+[LinkedIn](https://www.linkedin.com/in/yeshi-pursley-645768252)
+
+---
